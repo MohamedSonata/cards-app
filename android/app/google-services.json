@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751042882163",
+    "project_id": "cards-d6a85",
+    "storage_bucket": "cards-d6a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751042882163:android:ea98eac407ac17adcd1806",
+        "android_client_info": {
+          "package_name": "com.example.cardsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751042882163-3b56m67bospt84mb7a5s2eericpn39af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cardsapp",
+            "certificate_hash": "f6d501e0582c4228f69b3d2ae5c822099af92f1b"
+          }
+        },
+        {
+          "client_id": "751042882163-9q1g2uispmaks7q1t6h2r30vjclfc0r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhsJDSmTQJyAyf0NpVFI3P2wey0UJlq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751042882163-9q1g2uispmaks7q1t6h2r30vjclfc0r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
