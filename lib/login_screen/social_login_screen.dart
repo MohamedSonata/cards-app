@@ -24,7 +24,7 @@ class AppLoginScreen extends StatelessWidget {
       create: (BuildContext context) => AppLoginCubit(),
       child: BlocConsumer< AppLoginCubit , AppLoginStates>(
         listener: (context , state){
-
+var ttt;
 
           if (state is AppLoginSuccessState) {
             CacheHelper.saveData(
